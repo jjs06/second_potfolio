@@ -87,7 +87,7 @@ footer .b11>.tbox8{width: 1200px; height: 150px; background-color: #aaa;}
 footer .b11 form{width: 1200px; height: 270px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; background-color: #aaa;}
 footer .b11 form>.tbox9{width: 1200px; height: 60px; display: flex; justify-content: space-between;}
 footer .b11 form>.tbox9>input{height: 60px;}
-footer .b11 form>textarea{width: 1200px; height: 120px; resize: none;}
+footer .b11 form>textarea{width: 1200px; height: 90px; resize: none;}
 
 /*footer info*/
 footer .b12{width: 1500px; height: 270px; padding: 60px 0; display: flex; flex-direction: column; align-items: center; justify-content: space-between; background-color: #ccc;}
