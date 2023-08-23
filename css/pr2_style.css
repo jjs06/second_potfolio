@@ -112,9 +112,9 @@
   #section .sc2>.tbox3{width: 100%; height: auto; display: flex; flex-direction: column; margin-bottom: 4%;}
   #section .sc2>.tbox3 h2{width: 100%; height: auto; margin-bottom: 3%;}
   #section .sc2>.tbox3 p{width: 100%; height: auto; font-size: 1rem; margin-bottom: 3%;} 
-  #section .sc2>.m2{width: 37.5%; height: 0; padding-bottom: 56.25%;}
+  #section .sc2>.m2{width: 100%; height: 0; padding-bottom: 150%; margin-bottom: 4%;}
   #section .sc2>.m2 img{width: 100%;}
-  #section .sc2>.m3{width: 56.25%; height: 0; padding-bottom: 75%; background-color: lightcyan;}
+  #section .sc2>.m3{width: 100%; height: 0; padding-bottom: 133.334%; background-color: lightcyan;}
   #section .sc2>.m3 img{width: 100%;}
 
   /* sc3 */
